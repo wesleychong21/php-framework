@@ -1,0 +1,15 @@
+{
+    "name": "wesle/php-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wesleychong21",
+            "email": "wesleychong21@gmail.com"
+        }
+    ],
+    "require": {}
+}
